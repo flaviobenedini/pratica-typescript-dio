@@ -1,0 +1,20 @@
+{
+  "name": "pratica-typescript-dio",
+  "version": "1.0.0",
+  "description": "Prática para estudos de typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviobenedini/pratica-typescript-dio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviobenedini/pratica-typescript-dio/issues"
+  },
+  "homepage": "https://github.com/flaviobenedini/pratica-typescript-dio#readme"
+}
