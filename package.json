@@ -4,7 +4,9 @@
   "description": "Prática para estudos de typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/flaviobenedini/pratica-typescript-dio/issues"
   },
-  "homepage": "https://github.com/flaviobenedini/pratica-typescript-dio#readme"
+  "homepage": "https://github.com/flaviobenedini/pratica-typescript-dio#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
